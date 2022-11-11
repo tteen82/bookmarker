@@ -1,0 +1,16 @@
+body {
+  font-family: Verdana;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#inputform {
+  height: 10rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+#detailUl form {
+  display: inline;
+}
