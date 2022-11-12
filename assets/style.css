@@ -14,3 +14,11 @@ body {
 #detailUl form {
   display: inline;
 }
+
+#detailUl li {
+  padding: 0.5rem;
+}
+
+#bookmarksUl li {
+  padding: 0.3rem;
+}
